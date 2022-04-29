@@ -1,0 +1,17 @@
+{
+	"files": [
+		"sql/Built-in-Global-Variables.sql",
+		"sql/Data-Control-Language-(DCL).sql",
+		"sql/Data-Definition-Language-(DDL).sql",
+		"sql/Data-Manipulation-Language-(DML).sql",
+		"sql/Db2-for-i-Services.sql",
+		"sql/Miscellaneous.sql",
+		"sql/Routine-(Function-or-Procedure)-Statements.sql",
+		"sql/Special-Registers.sql",
+		"sql/SYSTOOLS.sql"
+	],
+	"out": "sql/IBMi_SQL.sql",
+	"header" : "/*MERGE ALL SQL EXAMPLES\n\nVersion 7.3\n*/",
+	"footer": "/*copyright*/",
+	"fileheader":"/*${filename}*/"
+}
